@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import requests
 from datetime import datetime
-import matplotlib as plt 
 import matplotlib.pyplot as plt
 
 def dat_transform(df):
